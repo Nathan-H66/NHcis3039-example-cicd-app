@@ -13,7 +13,7 @@ const formatPrice = (p?: number) =>
 </script>
 
 <template>
-  <div class="products-view">
+  < class="products-view">
     <h1>Products</h1>
 
     <div v-if="loading" class="loading">Loading products…</div>

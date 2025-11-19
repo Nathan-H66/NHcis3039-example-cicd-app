@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      VITE_API_BASE_URL: https://products-test-ab47-func.azurewebsites.net/api/ # Change to your deployed test backend
+      VITE_API_BASE_URL: https://week9-lab-nh66-func.azurewebsites.net/api/ # Change to your deployed test backend
 
     steps:
       - name: Checkout code

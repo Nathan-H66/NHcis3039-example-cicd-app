@@ -51,7 +51,7 @@ const formatPrice = (p?: number) =>
   gap: 1rem;
 }
 .card {
-  border: 1px solid #e5e7eb;
+  border: 1px solid #952baa;
   border-radius: 8px;
   padding: 1rem;
   background: white;
